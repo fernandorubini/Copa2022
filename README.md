@@ -4,7 +4,7 @@
 
 ## 💻 Projeto
 
-Sou Fernando Rubini e este repositório foi criado para o Bootcamp Santander 2023: Criar um App com listagem e notificações dos jogos da Copa do Mundo de 2022" da DIO
+Sou Fernando Rubini e este repositório foi criado para o Bootcamp Santander 2023: Criar um App com listagem e notificações dos jogos da Copa do Mundo de 2022 da DIO
 Aplicativo Android desenvolvido com Kotlin para exibir informações sobre a Copa do Mundo de 2022. O projeto foi criado com fins de estudo e prática de arquitetura moderna, consumo de APIs REST e uso de componentes do Android Jetpack.
 
 ## 📱 Funcionalidades
